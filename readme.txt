@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: easydevelopment
-Donate link: http://example.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=robert%40easy%2ddevelopment%2ecom&lc=US&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: a,b, testing, flexible, external, link, page, internal, page, test, split, split testing
 Requires at least: 3.3
 Tested up to: 4.1
